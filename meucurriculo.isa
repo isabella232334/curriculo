@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Minha apresentação </title>
+    </head>
+    <body>
+        <h2 style="text-align: center;"> Isabella Braga </h2>
+        <div style=" text-align: center;">
+        <img src=" /home/professo/Imagens/davibrito.jpeg" width="300" height="200">
+        </div>
+         <p style=text-align: center;"> Brasileira, 15 anos, 
+            <br> Estado civil; solteira, rua general carvalho, n69, 80028922 </p>
+     <h2> meus objetivos: </h2>
+      <p style="text-align: justify;"> Ter sucesso na minha profissão e ter muito dinheiro </p> <hr> 
+        
+            <h2> formação: </h2> 
+            <p style="text-align: justify;"> TEC INFORMATICA </p>
+            <ol> <li> Gastronomia </li> <li> Logica de Programação </li> </ol>
+            <hr>
+            <h2> cursos: </h2>
+            <ul> <li> Ingles </li> <li> informatica</li> </ul>
+        
